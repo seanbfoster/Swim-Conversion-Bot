@@ -12,4 +12,4 @@ After creating a Reddit instance and establishing a MySql connection, this progr
    - Figure out whether a time was swam in short course or long course
  3. Statistics on times
     - Log all times converted for each event
-      - Every month/year, report the average time in each event (compare to previous month/year)
+    - Every month/year, report the average time in each event (compare to previous month/year)
